@@ -2,9 +2,9 @@
 - 👀 Q:interested in?
 A: videogames
 - 🌱 Q:Currently learning Somethink?
-A: Programing on python
+A: unfortunately i can't...
 - 💞️ Q:looking to collaborate?
-A: NONE!!!
+A: No
 - 📫 Q:How to reach me?
 A: Right now nowhere
 <!---
